@@ -1,10 +1,6 @@
 {
   "docs": {
-    "Getting Started": [
-      "overview",
-      "tutorial",
-      "resources"
-    ],
+    "Getting Started": ["overview", "tutorial", "resources"],
     "Guides": [
       "guides/validation",
       "guides/arrays",
